@@ -6,6 +6,10 @@ import About from './routes/about.js'
 import CreateDog from './routes/createDog';
 import Landing from './routes/landing';
 import Page404 from './routes/page404';
+import axios from "axios";
+
+axios.defaults.baseURL = "http://localhost:3001/"
+
 
 function App() {
 

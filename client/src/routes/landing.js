@@ -14,7 +14,7 @@ const LandingPage = () =>{
 }
 
 const BodyPage = styled.div`
-  background-image: url(C:\Users\herre\Downloads\PI-DOGS-V1 VERSION FINAL SI 2 sin modules\PI-DOGS-V1 VERSION FINAL SI 2 sin modules\client\src\img\20093-perritos.png);
+  background-image: url("C:\Users\herre\Desktop\deploy\client\src\img\20093-perritos.png");
   background-position: 20% 65%; 
   background-attachment: fixed;
   height: 650px;

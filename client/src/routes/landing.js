@@ -14,11 +14,12 @@ const LandingPage = () =>{
 }
 
 const BodyPage = styled.div`
-  
-  background-position: 20% 65%; 
+  background-image: url("https://www.campbellrivervet.com/wp-content/uploads/sites/282/2022/05/Husky-1000x650.jpg");
+  background-repeat: no-repeat; 
   background-attachment: fixed;
-  height: 650px;
-  width: 100%;
+  background-position: center center
+  height: 1800px;
+  background-size: cover
 
  
 

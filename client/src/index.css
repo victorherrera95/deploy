@@ -8,12 +8,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: none;
   /* color: white; */
-   width: 1200px; 
+    
   margin-left: auto;
   margin-right: auto;
+  background-image: url("https://www.campbellrivervet.com/wp-content/uploads/sites/282/2022/05/Husky-1000x650.jpg");
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   
-  background-position: 45% 25%;
-  background-attachment:fixed ;
+  
 
 }
 

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3bcab42.css",
+    "main.js": "/static/js/main.63325dd6.js",
+    "static/media/llorando.gif": "/static/media/llorando.3ec0c11113a1cd90673e.gif",
+    "static/media/c.gif": "/static/media/c.ade79229dccf64bf0a34.gif",
+    "static/media/20093-perritos.png": "/static/media/20093-perritos.e4cb1c0e5d2f667f1c28.png",
+    "index.html": "/index.html",
+    "main.d3bcab42.css.map": "/static/css/main.d3bcab42.css.map",
+    "main.63325dd6.js.map": "/static/js/main.63325dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3bcab42.css",
+    "static/js/main.63325dd6.js"
+  ]
+}

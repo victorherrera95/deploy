@@ -8,7 +8,7 @@ import Landing from './routes/landing';
 import Page404 from './routes/page404';
 import axios from "axios";
 
-axios.defaults.baseURL = "http://localhost:3001/"
+axios.defaults.baseURL = "https://deploy-production-f88a.up.railway.app/"
 
 
 function App() {
